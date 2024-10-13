@@ -1,0 +1,13 @@
+.lign {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tableau {
+
+  /* background-image: url("https://picsum.photos/900"); */
+  /* background-size: contain;
+  background-repeat: no-repeat; */
+}
